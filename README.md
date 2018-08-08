@@ -1,8 +1,12 @@
 # Scientific-Computing-MATLAB
 Scientific Computing tasks programmed in MATLAB
+
 FOLDERS:
+
 DFT - Discrete Fourier Transform
+
 Distribucija temperature - Temperature Distribution
+
 Kolokacija - Collocation
 Linearni rubni problem - Linear Boundary Value Poroblem
 Oscilator - Oscillator
